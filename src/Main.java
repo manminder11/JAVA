@@ -5,6 +5,14 @@ public class Main {
 
 
         // this is considered as a comment single line
+        /*
+        THIS
+        IS
+        MULTILINE
+        COMMENT
+
+         */
+
 
     }
 }
