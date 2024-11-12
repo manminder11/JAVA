@@ -18,11 +18,11 @@ public class exp {
             // 1. Arithmetic operators
             // +, -, *, /, %, ++, --
             int number = 100;
-            number = number + 10; // 110
-            number = number - 10; // 100
-            number = number * 10; // 1000
-            number = number / 10; // 100
-            number = number % 15; // 10
+            number = number + 10; // 110   // sum
+            number = number - 10; // 100  // difference
+            number = number * 10; // 1000  // product
+            number = number / 10; // 100  // quotient
+            number = number % 15; // 10  // remainder
 
             // increment and decrement operators
             number++; // 11

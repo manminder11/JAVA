@@ -1,6 +1,17 @@
 public class VARIABLES {
     public static void main(String[] args) {
 
+
+        // 8 primitive data types in java
+        // 1. byte
+        // 2. short
+        // 3. int
+        // 4. long
+        // 5. float
+        // 6. double
+        // 7. boolean
+        // 8. char
+
         int x; // declaring a variable
         x = 5; // assigning a value to a variable
         System.out.println(x); // printing the value of a variable
@@ -38,6 +49,14 @@ public class VARIABLES {
         String s = "Hello";
         System.out.println(s);
 
+        // byte
+        byte a = 100;
+        System.out.println(a);
+        // ANSWER IS 100 BECAUSE THE RANGE OF BYTE IS -128 TO 127
+
+        int H;
+        H = 5000;
+        System.out.println(H);
 
 
     }
