@@ -5,6 +5,7 @@ public class math {
 
         int change = Math.subtractExact(coin,price);
         System.out.println("The minimum value is: " + change);
+        // output: The minimum value is: 30 change = 100 - 70 = 30
 
 
         // like this there are many methods in the math class that can be used to perform mathematical operations in java

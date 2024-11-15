@@ -6,5 +6,9 @@ public class GUI_Application {
 
          int age = Integer.parseInt(JOptionPane.showInputDialog("Enter your age: "));
             JOptionPane.showMessageDialog(null, "Your age is: " + age);
+
+
+
+
     }
 }
