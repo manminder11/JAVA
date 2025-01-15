@@ -42,7 +42,7 @@ public class exp {
             System.out.println("RESULT is: "+result2); // 3.3333333333333335
 
 
-
+            System.out.println();
 
         }
     }
