@@ -9,6 +9,7 @@ public class arraylist {
         food.add("burger");
         food.add("chips");
         food.add("coke");
+        food.set(0 , "banana");
 
 
         for(int i = 0; i<food.size() ; i++) {

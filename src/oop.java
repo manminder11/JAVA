@@ -10,12 +10,12 @@ public class oop {
         // oopcar is that file which is declared somewhere else and called by using the oop concept as it made the oopcar object and then took the value from the same file
         //
         // SO NAMES CANNOT BE CHANGED HERE
-        oopcar myoop = new oopcar();
+        oopcar mycar = new oopcar();
 
-        System.out.println(myoop.avg);
-        System.out.println(myoop.color);
-        myoop.available();
-        myoop.Condition();
+        System.out.println(mycar.avg);
+        System.out.println(mycar.color);
+        mycar.available();
+        mycar.Condition();
 
 
     }

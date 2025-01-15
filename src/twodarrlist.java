@@ -49,6 +49,7 @@ public class twodarrlist {
         // for 2nd
         System.out.println(Food.get(1));
         // indexing the whole list as = 0 and = 1
+        // got it
         // by shuffling this we can get each item individually also
 
 
